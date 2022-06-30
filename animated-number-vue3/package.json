@@ -1,0 +1,26 @@
+{
+  "name": "animated-number-vue3",
+  "version": "0.0.5",
+  "description": "支持vue3的数字增长动画,支持多数字.",
+  "main": "animated-number.es.js",
+  "author": "mrzhouxl",
+  "license": "MIT",
+  "repository":"https://github.com/mrzhouxl/animated-number-vue3",
+  "keywords": [
+    "number",
+    "animation",
+    "vue3",
+    "vue",
+    "number",
+    "animation-number",
+    "animation",
+    "vue number",
+    "vue animated",
+    "vue animation",
+    "animated number",
+    "animated"
+  ],
+  "dependencies": {
+    "animejs": "^3.2.1"
+  }
+}
