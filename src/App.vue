@@ -8,7 +8,11 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
-  <AnimatedNumber :from="0" :to="1000"></AnimatedNumber>
+  <AnimatedNumber :from="0" :to="1000">
+  <template #default="{ option, item }">
+    <h1>{{ item.number }}😀</h1>
+  </template>
+</AnimatedNumber>
 </template>
 
 <style>

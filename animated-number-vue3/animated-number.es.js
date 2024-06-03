@@ -1475,7 +1475,6 @@ const _sfc_main = /* @__PURE__ */ defineComponent(__spreadProps(__spreadValues({
         }
         option.value.targets = from;
         option.value = Object.assign(option.value, to);
-        console.log(option.value);
       }
       anime(option.value);
     };

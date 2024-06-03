@@ -1,6 +1,6 @@
 {
   "name": "animated-number-vue3",
-  "version": "0.0.5",
+  "version": "0.0.8",
   "description": "支持vue3的数字增长动画,支持多数字.",
   "main": "animated-number.es.js",
   "author": "mrzhouxl",

@@ -79,7 +79,6 @@ const init = () => {
     }
     option.value.targets = from;
     option.value = Object.assign(option.value, to)
-    console.log(option.value)
   }
   anime(option.value);
 }
