@@ -1,6 +1,6 @@
 # animated-number-vue3
 
-![预览](https://nft.degallery.cn/oss-fs/9/2022/6/29/o_1g6ng2ptqtge44rmk51903aka.gif)
+![预览](https://oss.tuyashe.top/o_1g6ng2ptqtge44rmk51903aka.gif)
 
 ## 安装
 
